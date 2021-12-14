@@ -1,2 +1,5 @@
-package com.Colorable.Interface;public interface Colorable {
+package com.Colorable.Interface;
+
+public interface Colorable {
+    void howToColor();
 }

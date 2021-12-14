@@ -1,4 +1,4 @@
-package com.Colorable;
+package com.Colorable.Geometric;
 
 public class Shape {
     private String color = "green";

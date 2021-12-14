@@ -1,6 +1,6 @@
-package com.Colorable;
+package com.Colorable.Geometric;
 
-public class Circle extends Shape{
+public class Circle extends Shape {
     private double radius = 1.0;
 
     public Circle() {

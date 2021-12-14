@@ -1,4 +1,4 @@
-package com.Colorable;
+package com.Colorable.Geometric;
 
 public class Rectangle extends Shape{
     private double width = 1.0;
